@@ -1,3 +1,0 @@
-#this is file
-a-b=c
-a+b=g
